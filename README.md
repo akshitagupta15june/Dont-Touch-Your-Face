@@ -18,14 +18,6 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/akshitagupta15june/dont-touch-your-face** and click import
 
-## Blocks preview
+### Components
+<img src="https://github.com/akshitagupta15june/Dont-Touch-Your-Face/blob/master/Images/WhatsApp%20Image%202021-05-15%20at%202.13.37%20PM.jpeg" height=300 width=500>
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/akshitagupta15june/dont-touch-your-face/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
