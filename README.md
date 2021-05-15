@@ -21,3 +21,6 @@ To edit this repository in MakeCode.
 ### Components
 <img src="https://github.com/akshitagupta15june/Dont-Touch-Your-Face/blob/master/Images/WhatsApp%20Image%202021-05-15%20at%202.13.37%20PM.jpeg" height=300 width=500>
 
+### Output
+
+<img src="https://github.com/akshitagupta15june/Dont-Touch-Your-Face/blob/master/Images/WhatsApp%20Image%202021-05-15%20at%202.14.55%20PM.jpeg" height=400 width=500>
